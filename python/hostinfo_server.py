@@ -2,7 +2,7 @@
 
 """
 A simple program that displays the hostname and IP
-Great for testing service routing in Kubernetes
+Great for testing service routing in Kubernetes - test
 """
 
 from datetime import datetime
