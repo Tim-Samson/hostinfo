@@ -1,4 +1,4 @@
-name: Host Info Server Build Automation
+name: testing new name
 
 on:
   workflow_dispatch:
