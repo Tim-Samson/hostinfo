@@ -9,7 +9,7 @@ on:
 
 jobs:
   build-test:
-    runs-on: self-hosted
+    runs-on: aidev-tsamson
     strategy:
       matrix:
         python-version: ['3.11','3.12']
